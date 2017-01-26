@@ -14,7 +14,27 @@
     <code class="src-html source_visible"></code>
     <div class="source_example">
     <button type="button" class="button button-primary">Button</button>
-        <a href="#777" class="btn btn-primary">Button</a>
+
+    .button {
+    color: #666;
+    background-color: transparent;
+    border: 1px solid #ddd;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    white-space: nowrap;
+    padding: 7px 15px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    border-radius: 2px;
+    margin-left: 5px;
+    min-width: 80px;
+}
     </div>
 </section>
 
