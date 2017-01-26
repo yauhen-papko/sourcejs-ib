@@ -1,7 +1,11 @@
-Initialized with [SourceJS](http://sourcejs.com) 0.5.5 - Living Style Guide Engine and Maintenance Environment for Front-end Components.
+*Workflow*
 
-___
+git clone https://github.com/yauhen-papko/sourcejs-ib.git
 
-Copyright © 2013-2015 [Sourcejs.com](http://sourcejs.com)
+make changes under /specs/ib
 
-Licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License), read more at [license page](http://github.com/sourcejs/source/wiki/MIT-License).
+git add -A
+git commit -m "Description of changes"
+git push origin master
+
+In a minute https://sourcejs-ib.herokuapp.com/specs/ib/ should contain updated version
