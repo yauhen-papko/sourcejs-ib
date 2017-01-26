@@ -1,8 +1,5 @@
 ﻿<head>
-    <!-- TODO: move to common bundle view (will be supported in SourceJS 0.5.2) -->
-    <link href="../bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <script src="../bower_components/bootstrap/js/button.js"></script>
-    <script src="../bower_components/bootstrap/js/dropdown.js"></script>
+
 </head>
 
 <h1>Button Spec</h1>
