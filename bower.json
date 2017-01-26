@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-bundle",
+  "description": "Bundle of Twitter Bootstrap components with SourceJS specs",
+  "keywords": [
+    "sourcejs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
