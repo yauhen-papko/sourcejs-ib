@@ -5,6 +5,9 @@
     </div>
 </div>
 
-<div class="source_catalog" data-nav="example-ib-bundle">
-    <h2></h2>
+<div class="source_catalog" data-nav="./" data-tag="without-tag">
+    <h2>Native Specs</h2>
+    <ul class="source_catalog_list">
+        <img src="/source/assets/i/process.gif" alt="Loading..."/>
+    </ul>
 </div>
