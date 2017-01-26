@@ -9,10 +9,11 @@
 </div>
 
 <section class="source_section">
-    <h2>Basic button</h2>
+    <h2>Primary button</h2>
 
     <code class="src-html source_visible"></code>
     <div class="source_example">
+    <button type="button" class="button button-primary">Button</button>
         <a href="#777" class="btn btn-primary">Button</a>
     </div>
 </section>
